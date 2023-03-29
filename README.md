@@ -1,0 +1,1 @@
+Compile program on M1 with `clang++ -I/opt/homebrew/Cellar/python\@3.11/3.11.2_1/Frameworks/Python.framework/Headers/ -L/opt/homebrew/Cellar/python\@3.11/3.11.2_1/Frameworks/Python.framework/Versions/3.11/lib/ -lpython3.11 -shared fibonacci_recursive.cpp -o fibonacci_recursive.so`
